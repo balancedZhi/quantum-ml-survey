@@ -28,7 +28,7 @@
 ## 🚀 快速开始
 
 ```bash
-git clone https://github.com/你的用户名/quantum-ml-survey.git
+git clone https://github.com/balancedZhi/quantum-ml-survey.git
 cd quantum-ml-survey
 pip install pennylane torch numpy matplotlib
 🗓️ Roadmap
